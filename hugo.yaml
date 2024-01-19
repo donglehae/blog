@@ -1,15 +1,23 @@
-baseURL: 'https://donglehae.github.io/'
-languageCode: 'en-us'
-title: '동글동글'
-theme: 'hugo-PaperMod'
+baseURL: https://donglehae.github.io/
+languageCode: en-us
+title: 동그리동해의 다락방
+theme: hugo-PaperMod
 params:
   homeInfoParams:
-    Title: Hi there wave
-    Content: Can be Info, links, about...
-  socialIcons: # optional
-    - name: "github"
-      url: "https://github.com/donglehae"
-    - name: "instagram"
-      url: "https://www.instagram.com/reach.climber"
+    Title: 동그리동해
+    Content: |
+      #### *💻Backend Developer*, *🧗🏻‍♂️Climber*  
+      ***
+      **동그리동해의 다락방**에 오신것을 환영합니다~ 👋
+  socialIcons:
+    - name: github
+      url: https://github.com/donglehae
+    - name: instagram
+      url: https://www.instagram.com/reach.climber
   assets:
     disableFingerprinting: true
+    favicon: /assets/favicon.ico
+    favicon16x16: /assets/favicon-16x16.png
+    favicon32x32: /assets/favicon-32x32.png
+    apple_touch_icon: /assets/apple-touch-icon.png
+    safari_pinned_tab: /assets/safari-pinned-tab.svg
