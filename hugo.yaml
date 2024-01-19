@@ -6,8 +6,9 @@ params:
   homeInfoParams:
     Title: 동그리동해
     Content: |
+      #### 📧dongledh@gmail.com
       #### *💻Backend Developer*, *🧗🏻‍♂️Climber*  
-      ***
+      >
       **동그리동해의 다락방**에 오신것을 환영합니다~ 👋
   socialIcons:
     - name: github
