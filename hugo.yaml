@@ -1,16 +1,15 @@
 baseURL: https://donglehae.github.io/
 languageCode: en-us
-title: 동그리동해의 다락방
+title: CodeClimber
 theme: hugo-PaperMod
 params:
-  defaultTheme: light
   homeInfoParams:
     Title: 동그리동해
     Content: |
       #### 📧dongledh@gmail.com
       #### *💻Backend Developer*, *🧗🏻‍♂️Climber*  
       >
-      **동그리동해의 다락방**에 오신것을 환영합니다~ 👋
+      **CodeClimber** 블로그에 방문하신 것을 환영합니다~ 👋
   socialIcons:
     - name: github
       url: https://github.com/donglehae
