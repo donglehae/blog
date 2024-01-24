@@ -22,3 +22,16 @@ params:
     favicon32x32: /assets/favicon-32x32.png
     apple_touch_icon: /assets/apple-touch-icon.png
     safari_pinned_tab: /assets/safari-pinned-tab.svg
+menu:
+  main:
+    - name: Home
+      pageRef: /
+      weight: 10
+    - identifier: categories
+      name: categories
+      url: /categories/
+      weight: 20
+    - identifier: tags
+      name: tags
+      url: /tags/
+      weight: 30
